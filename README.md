@@ -57,15 +57,3 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abinashp&theme=dark&show_icons=true&hide=issues,contribs"/>
-</p>
-
-<p align="center">
-[![Leetcode Stats](https://leetcard.jacoblin.cool/abinashp?ext=contest&theme=dark)](https://leetcode.com/)  
-</p>
-
-<p align="center">
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abinashp&bg_color=000000&color=51f565&line=ffffff&point=51f565&area=true&hide_border=true)](https://github.com/)
-</p>
