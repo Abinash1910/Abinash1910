@@ -33,12 +33,9 @@
 ### 🛠 IDE & Tools
 <p align="left">
 <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img height="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
 <img height="50" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img height="50" src="https://img.icons8.com/color/48/000000/notion.png"/>
 <img height="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-<img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
 </p>
 
 ---
